@@ -3,4 +3,3 @@
 Placeholder for Experiment 9.
 
 ---
-Developed by **Kumar Aditya**
