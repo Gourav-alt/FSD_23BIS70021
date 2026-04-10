@@ -26,4 +26,3 @@ A high-energy, premium EdTech platform that leverages AI to generate dynamic qui
 | **Routing** | HashRouter (GitHub Pages optimized) |
 
 ---
-Developed by **Kumar Aditya**
